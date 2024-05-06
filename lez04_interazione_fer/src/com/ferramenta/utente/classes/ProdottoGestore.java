@@ -1,4 +1,4 @@
-package com.ferramenta.classes;
+package com.ferramenta.utente.classes;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

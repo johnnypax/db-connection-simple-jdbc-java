@@ -1,4 +1,4 @@
-package com.ferramenta.classes;
+package com.ferramenta.utente.classes;
 
 public class Prodotto {
 
